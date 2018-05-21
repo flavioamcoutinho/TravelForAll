@@ -21,25 +21,25 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/button"
-            android:layout_width="100dp"
+            android:id="@+id/viajar"
+            android:layout_width="123dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="27dp"
+            android:layout_marginLeft="4dp"
             android:text="Viajar" />
 
         <Button
-            android:id="@+id/button2"
-            android:layout_width="100dp"
+            android:id="@+id/favoritos"
+            android:layout_width="123dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
+            android:layout_marginLeft="2dp"
             android:text="Favoritos" />
 
         <Button
-            android:id="@+id/button3"
-            android:layout_width="100dp"
+            android:id="@+id/preferencias"
+            android:layout_width="123dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:text="Histórico" />
+            android:layout_marginLeft="2dp"
+            android:text="Preferências" />
 
     </LinearLayout>
 
