@@ -21,10 +21,17 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/viajar"
+            android:id="@+id/preferencias"
             android:layout_width="123dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="4dp"
+            android:text="Preferências" />
+
+        <Button
+            android:id="@+id/viajar"
+            android:layout_width="123dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
             android:text="Viajar" />
 
         <Button
@@ -32,14 +39,8 @@
             android:layout_width="123dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="2dp"
-            android:text="Favoritos" />
+            android:text="Histórico" />
 
-        <Button
-            android:id="@+id/preferencias"
-            android:layout_width="123dp"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="2dp"
-            android:text="Preferências" />
 
     </LinearLayout>
 
