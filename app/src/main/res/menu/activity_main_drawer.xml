@@ -7,15 +7,15 @@
         <item
             android:id="@+id/nav_preferencias"
             android:icon="@drawable/icon_preferencias"
-            android:title="Import" />
+            android:title="Preferências" />
         <item
             android:id="@+id/nav_viajar"
             android:icon="@drawable/icon_viajar"
-            android:title="Gallery" />
+            android:title="Viajar" />
         <item
             android:id="@+id/nav_historico"
             android:icon="@drawable/icon_historico"
-            android:title="Slideshow" />
+            android:title="Histórico" />
     </group>
 
     <item android:title="Log">
@@ -23,11 +23,11 @@
             <item
                 android:id="@+id/nav_login"
                 android:icon="@drawable/icon_login"
-                android:title="Share" />
+                android:title="Login" />
             <item
                 android:id="@+id/nav_registar"
                 android:icon="@drawable/icon_registar"
-                android:title="Send" />
+                android:title="Registar" />
         </menu>
     </item>
 
